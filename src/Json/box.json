@@ -1,0 +1,32 @@
+[
+  {
+    "image": "/Presentation.png",
+    "title": "Presentation Design",
+    "content": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet"
+  },
+  {
+    "image": "/Audio.png",
+    "title": "Audio - Visual Production",
+    "content": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet"
+  },
+  {
+    "image": "/Translation.png",
+    "title": "Translation Services",
+    "content": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet"
+  },
+  {
+    "image": "/Graphic.png",
+    "title": "Graphic Design",
+    "content": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet"
+  },
+  {
+    "image": "/Research.png",
+    "title": "Research & Analytics",
+    "content": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet"
+  },
+  {
+    "image": "/Data.png",
+    "title": "Data Processing",
+    "content": "Lorem ipsum dolor sit amet, lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet"
+  }
+]
