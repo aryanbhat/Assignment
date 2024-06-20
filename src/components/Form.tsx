@@ -52,7 +52,7 @@ const Form = () => {
       />
       <button
         type="submit"
-        className=" bg-accent whitespace-nowrap px-10 py-2 text-lg rounded-lg text-white transition-all ease-in-out  hover:scale-110 lg:py-2 lg:px-1 lg:text-base xl:px-3 xl:text-lg"
+        className=" bg-accent whitespace-nowrap px-10 py-2 text-lg rounded-lg text-white transition-all ease-in-out  hover:scale-110 lg:py-2 lg:px-2  lg:text-base xl:px-3 xl:text-lg"
       >
         Contact Me
       </button>
