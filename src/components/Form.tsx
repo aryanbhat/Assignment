@@ -11,7 +11,7 @@ const Form = () => {
         email: emailRef.current.value,
       };
       axios
-        .post("/api", formbody)
+        .post("http://34.225.132.160:8002/api", formbody)
         .then((res: AxiosResponse) => {
           console.log(res.data);
           if (emailRef.current) {
